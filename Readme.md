@@ -177,7 +177,7 @@ python -m pytest tests/
 <h2>🧑‍💻 Support</h2>
 <ul>
   <li>For bugs or issues, please open a GitHub Issue.</li>
-  <li>For feature requests or inquiries, email: <code>abhijeetk6744@gmail.com</code></li>
+  <li>For feature requests or inquiries, email: <code>jhanandni707@gmail.com</code></li>
 </ul>
 
 <h2>🙏 Acknowledgments</h2>
